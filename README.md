@@ -13,15 +13,12 @@ Install the following dependencies:
  + [libusb](http://www.libusb.org/) - The core C drivers that give access to USB devices
  + [libusb ruby bindings](http://rubydoc.info/gems/libusb/frames) - Note this library is different from the _[ruby-usb](http://www.a-k-r.org/ruby-usb/)_ bindings
 
-  (brew install libusb)
- +
-
 Usage
 -----
 
-`require './notifier.rb'`
-`notifier = EmailNotifier.new`
-`notifier.colour! RED`
+    require './notifier.rb'
+    notifier = EmailNotifier.new
+    notifier.colour! RED
 
 Issues
 ------
