@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Projects>
+  <Project name="javascript :: defaultStage" activity="Sleeping" lastBuildStatus="Success" lastBuildLabel="11" lastBuildTime="2012-05-22T11:28:32" webUrl="http://localhost:8153/go/pipelines/javascript/11/defaultStage/1" />
+  <Project name="javascript :: defaultStage :: defaultJob" activity="Sleeping" lastBuildStatus="Success" lastBuildLabel="11" lastBuildTime="2012-05-22T11:28:32" webUrl="http://localhost:8153/go/tab/build/detail/javascript/11/defaultStage/1/defaultJob" />
+</Projects>
+
