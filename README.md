@@ -5,6 +5,8 @@ This [project](http://cweiske.de/tagebuch/usblamp-monitoring.htm) insprired this
 used the work from the [linux drivers](https://github.com/daniel-git/usblamp) to find out how to interact
 with the USB lamp.
 
+You can read more about the project [here](http://www.thekua.com/atwork/2012/05/usb-programming-with-ruby/) and watch a video of a light controlled with this library on [vimeo](http://vimeo.com/42499028#)
+
 Installation
 ------------
 
